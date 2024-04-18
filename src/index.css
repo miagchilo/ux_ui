@@ -1,0 +1,312 @@
+:root {
+  font-family: 'PP Neue Montreal', sans-serif;
+                                                
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: none;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.portf2-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.portf2-portf2 {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(254, 237, 221, 1);
+}
+
+.portf2-header {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+.portf2-text {
+  color: rgba(14, 14, 14, 1);
+  font-size: 16px;
+}
+
+.portf2-hero {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.portf2-frame5 {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-text02 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
+
+.portf2-text05 {
+  margin-top: 50px;
+  text-transform: uppercase;
+  font-size: 130px;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  background: transparent;
+  z-index: 0;
+  position: relative;
+  padding-top: 500px;
+  /* line-height: 90%; */
+  
+
+}
+.project_desc {
+  margin-top: 50px;
+  text-transform: uppercase;
+  font-size: 130px;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  background: transparent;
+  z-index: 0;
+  position: relative;
+  /* padding-top: 500px; */
+  /* line-height: 90%; */
+  
+
+}
+
+/* .portf2-picture {
+  z-index: -100;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute; 
+  top: 0; 
+  z-index: 1;
+
+} */
+
+.portf2-text06 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 330px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 85%;
+  position: absolute; /* Add this line */
+  z-index: 1; /* Add this line */
+
+}
+
+.portf2-frame50 {
+  /* min-height: 400px; */
+  z-index: 2;
+  width: 100%;
+  height: 100%; /* Adjust height as needed */
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-attachment: fixed;
+  background-image: url("/external/tq_m3yk8lddmt-qyie-600h.png");
+  background-position:  center;
+  /* overflow: visible;
+  position: sticky; */
+  position: absolute; 
+  top: 10; 
+}
+
+.portf2-image202308311925422 {
+  width: 100%;
+  max-width: 1000px; /* Adjust as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.portf2-text08 {
+  color: rgba(82, 82, 82, 1);
+  font-size: 16px;
+  text-align: center;
+}
+
+.portf2-frame44 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-text12 {
+  position: relative;
+  z-index: 1;
+  color: rgb(0, 0, 0);
+  font-size: 700px;
+  opacity: 0.6;
+  text-align: center;
+  font-weight: 700;
+}
+
+.portf2-frame45 {
+  position: absolute;
+  z-index: 2;
+  width: 900px;
+  height: 400px; /* Adjust height as needed */
+  background-size: cover;
+  background-image: url("/external/tq_so1knfm9gc-198-400h.png");
+}
+
+.portf2-frame47 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-text13 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  text-align: center;
+}
+
+.portf2-frame471 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-text15 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  text-align: center;
+}
+
+.portf2-email-input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-text17 {
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  text-align: center;
+}
+
+.portf2-frame48 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portf2-group2 {
+  display: flex;
+  align-items: center;
+}
+
+.portf2-line6,
+.portf2-line7,
+.portf2-line8 {
+  width: 14px;
+  height: 1px;
+}
+
+.portf2-frame52 {
+  width: 20%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 1);
+  pointer-events: auto;
+  z-index: 3;
+}
+
+.portf2-text19 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+}
+
+.portf2-text20 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
