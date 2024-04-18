@@ -132,7 +132,7 @@ h1 {
 
 .portf2-text06 {
   color: rgba(0, 0, 0, 1);
-  font-size: 330px;
+  font-size: 315px;
   text-align: center;
   font-weight: 700;
   line-height: 85%;
@@ -145,7 +145,7 @@ h1 {
   /* min-height: 400px; */
   z-index: 2;
   width: 100%;
-  height: 100%; /* Adjust height as needed */
+  height: 90%; /* Adjust height as needed */
   background-repeat: no-repeat;
   background-size: 50%;
   background-attachment: fixed;
@@ -264,7 +264,7 @@ h1 {
   align-items: center;
   background-color: rgba(0, 0, 0, 1);
   pointer-events: auto;
-  z-index: 3;
+  z-index: 2;
 }
 
 .portf2-text19 {

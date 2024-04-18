@@ -61,27 +61,13 @@
   font-stretch: normal;
   text-decoration: none;
 }
-/*
-.frame49-hero1 {
-  gap: 10.600814819335938px;
-  top: 918px;
-  left: 1px;
-  width: 1602px;
-  height: 970px;
-  display: flex;
-  padding: 10.600814819335938px 33.922607421875px;
-  overflow: hidden;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
 .frame49-text06 {
-  top: 207px;
+  top: 1207px;
   left: 36px;
   color: rgba(0, 0, 0, 1);
   width: 1529px;
   height: auto;
-  position: absolute;
+  position: relative;
   font-size: 40px;
   font-style: Medium;
   text-align: left;
@@ -92,7 +78,7 @@
   text-decoration: none;
 }
 .frame49-text08 {
-  top: 677px;
+  top: 1877px;
   left: 37px;
   color: rgba(0, 0, 0, 1);
   width: 1519px;
@@ -107,6 +93,115 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.frame49-text10 {
+  top: 2318px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  width: 1527px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 500;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame49-text20 {
+  top: 2689px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 1527px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 500;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.frame49-text22 {
+  top: 3000px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 1473px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 500;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame49-text24 {
+  top: 3332px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Book;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 300;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame49-text26 {
+  color: rgba(82, 82, 82, 1);
+  height: 3332;
+  position: absolute;
+  font-size: 24px;
+  font-style: Book;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 300;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame49-text30 {
+  top: 3158px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 770px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: left;
+  font-family: PP Neue Montreal;
+  font-weight: 500;
+  line-height: 120.00600099563599%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+/*
+.frame49-hero1 {
+  gap: 10.600814819335938px;
+  top: 918px;
+  left: 1px;
+  width: 1602px;
+  height: 970px;
+  display: flex;
+  padding: 10.600814819335938px 33.922607421875px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+
 .frame49-hero2 {
   gap: 10.600814819335938px;
   top: 1888px;
@@ -133,38 +228,8 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.frame49-text10 {
-  top: 118px;
-  left: 37px;
-  color: rgba(0, 0, 0, 1);
-  width: 1527px;
-  height: auto;
-  position: absolute;
-  font-size: 40px;
-  font-style: Medium;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 500;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.frame49-text20 {
-  top: 689px;
-  left: 24px;
-  color: rgba(0, 0, 0, 1);
-  width: 1520px;
-  height: auto;
-  position: absolute;
-  font-size: 40px;
-  font-style: Medium;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 500;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
+
 .frame49-hero4 {
   gap: 10.600814819335938px;
   top: 3751px;
@@ -191,22 +256,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.frame49-text22 {
-  top: 911px;
-  left: 38px;
-  color: rgba(0, 0, 0, 1);
-  width: 1473px;
-  height: auto;
-  position: absolute;
-  font-size: 40px;
-  font-style: Medium;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 500;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .frame49-frame46 {
   top: 1653px;
   left: 0px;
@@ -218,21 +268,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.frame49-text24 {
-  top: 32px;
-  left: 32px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-  font-size: 24px;
-  font-style: Book;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 300;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .frame49-frame47 {
   top: 29px;
   left: 641px;
@@ -244,19 +280,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.frame49-text26 {
-  color: rgba(82, 82, 82, 1);
-  height: auto;
-  position: absolute;
-  font-size: 24px;
-  font-style: Book;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 300;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .frame49-email-input {
   top: 93px;
   left: 0px;
@@ -329,22 +353,7 @@
   height: 1px;
   position: absolute;
 }
-.frame49-text30 {
-  top: 158px;
-  left: 38px;
-  color: rgba(0, 0, 0, 1);
-  width: 770px;
-  height: auto;
-  position: absolute;
-  font-size: 40px;
-  font-style: Medium;
-  text-align: left;
-  font-family: PP Neue Montreal;
-  font-weight: 500;
-  line-height: 120.00600099563599%;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .frame49-maskgroup {
   top: -67px;
   left: 666px;

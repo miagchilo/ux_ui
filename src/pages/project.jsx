@@ -24,7 +24,7 @@ export default function Project () {
         <div className="frame49-hero1">
           <span className="frame49-text06">
             <span>
-              Research Methodology: Our journey began with extensive desktop
+              Research Methodology:Our journey began with extensive desktop
               research, diving into the cultural fabric of Barcelona and
               analyzing existing public spaces. Subsequently, we conducted field
               research, interviewing eight individuals representing a diverse
@@ -35,7 +35,7 @@ export default function Project () {
           </span>
           <span className="frame49-text08">
             <span>
-              Approach: Driven by our vision of &quot;Life is good
+              Approach:Driven by our vision of &quot;Life is good
               together,&quot; we embraced a human-centered design approach to
               create PobleGarden. Our process involved synthesizing data from
               interviews and observations to develop archetypes, empathy maps,
@@ -65,7 +65,7 @@ export default function Project () {
           </span>
           <span className="frame49-text20">
             <span>
-              Outcome: PobleGarden has emerged as a beacon of unity in
+              Outcome:PobleGarden has emerged as a beacon of unity in
               Barcelona, bridging divides and fostering a sense of belonging
               among its diverse inhabitants. By providing a platform for
               cultural exchange, collaborative learning, and shared experiences,
@@ -79,7 +79,7 @@ export default function Project () {
         <div className="frame49-hero5">
           <span className="frame49-text22">
             <span>
-              Conclusion: Through our collaborative efforts and commitment to
+              Conclusion:Through our collaborative efforts and commitment to
               human-centered design principles, PobleGarden has transformed
               public spaces into vibrant hubs of community life. By embracing
               diversity and fostering connections, we have unlocked the

@@ -46,25 +46,7 @@ export default function Home() {
               <span className="portf2-text19">SEE MORE</span>
             </button>
        
-            {/* <span className="portf2-text08">
-              <span>
-                Based in Europe
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
-              <br></br>
-              <span>
-                Available worldwide
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
-            </span> */}
+         
             <div className="portf2-frame44">
               <span className="portf2-text12"> STAS</span>
               <div className="portf2-frame45"></div>
