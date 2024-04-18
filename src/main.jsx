@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { createRoot } from 'react-dom';
 import { Routes } from '@generouted/react-router';
-import { routes } from './router'; // Assuming you have exported routes from router.ts
+// import { routes } from './router'; // Assuming you have exported routes from router.ts
+const routes = {
+    home: '/',
+    project: '/project'
+  };
 
 import './index.css';
 import App from './App';

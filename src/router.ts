@@ -1,21 +1,18 @@
-import { components, hooks, utils } from '@generouted/react-router/client';
+// Generouted, changes to this file will be overriden
+/* eslint-disable */
+
+import { components, hooks, utils } from '@generouted/react-router/client'
 
 export type Path =
   | `/`
-  | `/project`;
+  | `/project`
 
 export type Params = {
-  // Define any route parameters if needed
-};
+  
+}
 
-export type ModalPath = never;
+export type ModalPath = never
 
-export const { Link, Navigate } = components<Path, Params>();
-export const { useModals, useNavigate, useParams } = hooks<Path, Params, ModalPath>();
-export const { redirect } = utils<Path, Params>();
-
-// Add the Project route
-export const routes = {
-  home: '/',
-  project: '/project'
-};
+export const { Link, Navigate } = components<Path, Params>()
+export const { useModals, useNavigate, useParams } = hooks<Path, Params, ModalPath>()
+export const { redirect } = utils<Path, Params>()
